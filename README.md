@@ -12,8 +12,12 @@ Pytorch said they reduce 22% steptime compared to continus memory_format.
 
 Usage:
 https://pytorch.org/docs/stable/tensor_attributes.html#torch.memory_format
+
+
 Tutorial:
 https://pytorch.org/tutorials/intermediate/memory_format_tutorial.html
+
+
 Pytorch benchmark:
 https://github.com/NVIDIA/apex/blob/ac8214ee6ba77c0037c693828e39d83654d25720/examples/imagenet/main_amp.py#L147C5-L147C57
 
